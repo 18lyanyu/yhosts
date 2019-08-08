@@ -6935,7 +6935,7 @@
 127.0.0.1 ads.adxadserv.com
 127.0.0.1 safe.res.meizu.com
 127.0.0.1 anquan.luomi.com
-127.0.0.1 wx4.sinaimg.cn
+#127.0.0.1 wx4.sinaimg.cn
 127.0.0.1 soft.imtt.qq.com
 127.0.0.1 mtrace.qq.com
 127.0.0.1 btrace.qq.com
@@ -7928,7 +7928,7 @@
 127.0.0.1 www.iconworkshop.cn
 127.0.0.1 www.imindmap.cc
 127.0.0.1 www.jihehuaban.com.cn
-127.0.0.1 www.kanjiantu.com
+#127.0.0.1 www.kanjiantu.com
 127.0.0.1 www.keyshot.cc
 127.0.0.1 www.kingdeecn.cn
 127.0.0.1 www.logoshejishi.com
