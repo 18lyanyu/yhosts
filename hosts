@@ -1,7 +1,5 @@
 127.0.0.1 localhost
 ::1 ip6-localhost
-#127.0.0.1 t7z.cupid.iqiyi.com
-#127.0.0.1 livew.l.qq.com
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
 127.0.0.1 hlrcv.stage.adobe.com
@@ -6895,7 +6893,6 @@
 127.0.0.1 mto.multiopen.cn
 127.0.0.1 statis.multiopen.cn
 127.0.0.1 folder.appota.cn
-#127.0.0.1 inews.gtimg.com
 127.0.0.1 android.bugly.qq.com
 127.0.0.1 et.w.inmobi.cn
 127.0.0.1 i.l.inmobicdn.cn
@@ -6935,7 +6932,6 @@
 127.0.0.1 ads.adxadserv.com
 127.0.0.1 safe.res.meizu.com
 127.0.0.1 anquan.luomi.com
-#127.0.0.1 wx4.sinaimg.cn
 127.0.0.1 soft.imtt.qq.com
 127.0.0.1 mtrace.qq.com
 127.0.0.1 btrace.qq.com
@@ -6963,7 +6959,6 @@
 127.0.0.1 rp.hpplay.cn
 127.0.0.1 cmta.yangkeduo.com
 127.0.0.1 api.yangkeduo.com
-#127.0.0.1 wqs.jd.com
 127.0.0.1 addata.jd.com
 127.0.0.1 addata.jd.com.gslb.qianxun.com
 127.0.0.1 badjs.weixinbridge.com
@@ -7790,7 +7785,6 @@
 127.0.0.1 wip3.adobe.com
 127.0.0.1 wm.baidu.com
 127.0.0.1 wmedia-track.uc.cn
-#127.0.0.1 woocall.sina.com.cn
 127.0.0.1 ws001.authedmine.com
 127.0.0.1 ws001.coin-hive.com
 127.0.0.1 ws001.coinhive.com
@@ -7928,7 +7922,6 @@
 127.0.0.1 www.iconworkshop.cn
 127.0.0.1 www.imindmap.cc
 127.0.0.1 www.jihehuaban.com.cn
-#127.0.0.1 www.kanjiantu.com
 127.0.0.1 www.keyshot.cc
 127.0.0.1 www.kingdeecn.cn
 127.0.0.1 www.logoshejishi.com
@@ -8389,3 +8382,11 @@
 127.0.0.1 uop.umeng.com
 127.0.0.1 plbslog.umeng.com
 127.0.0.1 ulogs.umengcloud.com
+127.0.0.1 iwallet-1258175138.file.myqcloud.com
+127.0.0.1 dldir1.qq.com
+127.0.0.1 img1.360buyimg.com
+127.0.0.1 fans.91p20.space
+127.0.0.1 t.dtscdn.com
+127.0.0.1 t.dtscout.com
+127.0.0.1 banners.adultfriendfinder.com
+127.0.0.1 lbs.map.qq.com
