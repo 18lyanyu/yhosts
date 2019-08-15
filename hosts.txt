@@ -6937,7 +6937,6 @@
 127.0.0.1 btrace.qq.com
 127.0.0.1 av.video.qq.com
 127.0.0.1 splashqqlive.gtimg.com
-127.0.0.1 vv.video.qq.com
 127.0.0.1 sdkconfig.video.qq.com
 127.0.0.1 mcgi.v.qq.com
 127.0.0.1 cfg.imtt.qq.com
@@ -6963,7 +6962,6 @@
 127.0.0.1 addata.jd.com.gslb.qianxun.com
 127.0.0.1 badjs.weixinbridge.com
 127.0.0.1 wxsnsdythumb.wxs.qq.com
-127.0.0.1 wxsnsdy.wxs.qq.com
 127.0.0.1 nrcapi.ssl2.duapps.com
 127.0.0.1 report.huatuo.qq.com
 127.0.0.1 pingfore.qq.com
