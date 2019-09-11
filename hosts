@@ -7674,8 +7674,8 @@
 127.0.0.1 t5.baidu.com
 127.0.0.1 t6.baidu.com
 127.0.0.1 t7.baidu.com
-127.0.0.1 t8.baidu.com
-127.0.0.1 t9.baidu.com
+#127.0.0.1 t8.baidu.com
+#127.0.0.1 t9.baidu.com
 127.0.0.1 t-abi.hypers.com.cn
 127.0.0.1 tag-store.ads-pixiv.net
 127.0.0.1 t.domob.cn
