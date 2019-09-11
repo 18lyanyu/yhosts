@@ -352,7 +352,6 @@
 127.0.0.1 datax.baidu.com
 127.0.0.1 openrcv.baidu.com
 127.0.0.1 paimgcdn.baidu.com
-127.0.0.1 cpu.baidu.com
 127.0.0.1 cpu-admin.baidu.com
 127.0.0.1 hpd.baidu.com
 127.0.0.1 feed.baidu.com
@@ -8466,3 +8465,4 @@
 127.0.0.1 pingjs.qq.com
 127.0.0.1 nearby.3g.qq.com
 127.0.0.1 ads.adxadserv.com
+127.0.0.1 tools.3g.qq.com
