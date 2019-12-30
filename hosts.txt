@@ -1647,9 +1647,7 @@
 127.0.0.1 plt.data.pplive.com
 127.0.0.1 web.data.pplive.com
 127.0.0.1 apm.suning.cn
-127.0.0.1 click.suning.cn
 127.0.0.1 dfp.suning.com
-127.0.0.1 ssac.suning.com
 127.0.0.1 adinf.voole.com
 127.0.0.1 apkinfo.voole.com
 127.0.0.1 adinf.cp11.ott.cibntv.net
@@ -8479,3 +8477,4 @@
 127.0.0.1 e.res.flyme.cn
 127.0.0.1 open-iflow.meizu.com
 127.0.0.1 rtb.flyme.cn
+127.0.0.1 file.finance.sina.com.cn
