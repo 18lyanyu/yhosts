@@ -624,14 +624,12 @@
 127.0.0.1 www.googletagservices.com
 127.0.0.1 bdsp.x.jd.com
 127.0.0.1 c-nfa.jd.com
-127.0.0.1 ccc-x.jd.com
 127.0.0.1 cm.jd.com
 127.0.0.1 gia.jd.com
 127.0.0.1 im-x.jd.com
 127.0.0.1 img-x.jd.com
 127.0.0.1 u.x.jd.com
 127.0.0.1 wn.x.jd.com
-127.0.0.1 x.jd.com
 127.0.0.1 3m.mediav.com
 127.0.0.1 cjhd.mediav.com
 127.0.0.1 ckmap.mediav.com
