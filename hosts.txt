@@ -8361,7 +8361,6 @@
 127.0.0.1 dldir1.legao.sched.dcloudstc.com
 127.0.0.1 i.gtimg.x2.sched.dcloudstc.com
 127.0.0.1 gz.pttc.aiseet.atianqi.com
-127.0.0.1 vm.gtimg.cn
 127.0.0.1 t-i.gridsumdissector.com
 127.0.0.1 yoo.qpic.cn
 127.0.0.1 hl.sparta.mig.tencent-cloud.net
