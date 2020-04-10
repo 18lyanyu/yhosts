@@ -82,7 +82,6 @@
 127.0.0.1 haostat.qihoo.com
 127.0.0.1 s.sh.qihoo.com
 127.0.0.1 res.qhupdate.com
-127.0.0.1 tran.news.so.com
 127.0.0.1 spro.so.com
 127.0.0.1 u.api.look.360.cn
 127.0.0.1 ad.dev.360.cn
@@ -8467,8 +8466,8 @@
 127.0.0.1 vpn.youyisheng.net
 127.0.0.1 ad.hpplay.cn
 127.0.0.1 default-cmp.hismarttv.com
-0.0.0.0 t7z.cupid.iqiyi.com
-0.0.0.0 baiducdncmn.inter.iqiyi.com
+127.0.0.1 t7z.cupid.iqiyi.com
+127.0.0.1 baiducdncmn.inter.iqiyi.com
 127.0.0.1 tencent-dtv.m.cn.miaozhen.com
 127.0.0.1 p.tencentmind.com
 127.0.0.1 ad.doubleclick.net
@@ -8481,3 +8480,5 @@
 127.0.0.1 toblog.ctobsnssdk.com
 127.0.0.1 tobapplog.ctobsnssdk.com
 127.0.0.1 rmpad.imtt.qq.com
+127.0.0.1 dss0.bdstatic.com
+127.0.0.1 issuecdn.baidupcs.com
