@@ -678,7 +678,6 @@
 127.0.0.1 otf.msn.com
 127.0.0.1 dc.ads.linkedin.com
 127.0.0.1 px.ads.linkedin.com
-127.0.0.1 aeventlog.beacon.qq.com
 127.0.0.1 android.rqd.qq.com
 127.0.0.1 astrategy.beacon.qq.com
 127.0.0.1 eventlog.beacon.qq.com
@@ -1675,7 +1674,6 @@
 127.0.0.1 mlog.hiido.com
 127.0.0.1 ylog.hiido.com
 127.0.0.1 jrlt.beacon.qq.com
-127.0.0.1 log.tbs.qq.com
 127.0.0.1 activeqq.3g.qq.com
 127.0.0.1 masdk.3g.qq.com
 127.0.0.1 pmir.3g.qq.com
@@ -7105,7 +7103,6 @@
 127.0.0.1 c.baidu.com
 127.0.0.1 ccclub.cmbchina.com
 127.0.0.1 cdn.ads.jlscds.com
-127.0.0.1 cdn.ark.qq.com
 127.0.0.1 cdn.mgid.com
 127.0.0.1 cdn.mxpnl.com
 127.0.0.1 cdn.onesignal.com
@@ -7391,7 +7388,6 @@
 127.0.0.1 makeding.com
 127.0.0.1 mapp.qzone.qq.com
 127.0.0.1 mathtype.cn
-127.0.0.1 mazu.3g.qq.com
 127.0.0.1 m.breezily168.com
 127.0.0.1 mbs.hao.360.cn
 127.0.0.1 m.bss.pandora.xiaomi.com
@@ -7613,7 +7609,6 @@
 127.0.0.1 s.nxrxt.com
 127.0.0.1 sobartop.baidu.com
 127.0.0.1 soft.data.weather.360.cn
-127.0.0.1 soft.tbs.imtt.qq.com
 127.0.0.1 soundofhope.org
 127.0.0.1 sousuo.xm.sjzhushou.com
 127.0.0.1 sp0.baidu.com
@@ -7678,7 +7673,6 @@
 127.0.0.1 tkweb.baidu.com
 127.0.0.1 tmn-d.openx.net
 127.0.0.1 tns.simba.taobao.com
-127.0.0.1 tools.3g.qq.com
 127.0.0.1 toutiao.2haha.com
 127.0.0.1 trace.qq.com
 127.0.0.1 tracker.baidu.com
@@ -8337,7 +8331,6 @@
 127.0.0.1 uop.umeng.com
 127.0.0.1 plbslog.umeng.com
 127.0.0.1 ulogs.umengcloud.com
-127.0.0.1 img1.360buyimg.com
 127.0.0.1 fans.91p20.space
 127.0.0.1 t.dtscdn.com
 127.0.0.1 t.dtscout.com
@@ -8348,7 +8341,6 @@
 127.0.0.1 apponline.research.qq.com
 127.0.0.1 api.kawo77.com
 127.0.0.1 static.kawo77.com
-127.0.0.1 static-alias-1.360buyimg.com
 127.0.0.1 iwallet-1258175138.file.myqcloud.com
 127.0.0.1 pgdt.gtimg.cn
 127.0.0.1 bksdkconfig.video.qq.com
@@ -8392,7 +8384,6 @@
 127.0.0.1 ez4q2.cn
 127.0.0.1 aaaaa.xiaokanba.com
 127.0.0.1 bds.snssdk.com
-127.0.0.1 soft.tbs.imtt.qq.com
 127.0.0.1 d.appjiagu.com
 127.0.0.1 s.appjiagu.com
 127.0.0.1 9.rarbg.to
@@ -8443,7 +8434,6 @@
 127.0.0.1 pingjs.qq.com
 127.0.0.1 nearby.3g.qq.com
 127.0.0.1 ads.adxadserv.com
-127.0.0.1 tools.3g.qq.com
 127.0.0.1 hippy.imtt.qq.com
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 wxsnsdythumb.wxs.qq.com
@@ -8462,9 +8452,6 @@
 127.0.0.1 c73.chinacasting.biz
 127.0.0.1 pv.eatjk.cn
 127.0.0.1 c72.chinacasting.biz
-127.0.0.1 pingtcss.qq.com
-127.0.0.1 sdksp.video.qq.com
-127.0.0.1 h5.analytics.126.net
 127.0.0.1 files-ad-app.gqgykh.com
 127.0.0.1 internal-amis-res.cdn.bcebos.com
 127.0.0.1 qzonestyle.gtimg.cn
@@ -8477,3 +8464,20 @@
 127.0.0.1 open-iflow.meizu.com
 127.0.0.1 rtb.flyme.cn
 127.0.0.1 file.finance.sina.com.cn
+127.0.0.1 vpn.youyisheng.net
+127.0.0.1 ad.hpplay.cn
+127.0.0.1 default-cmp.hismarttv.com
+0.0.0.0 t7z.cupid.iqiyi.com
+0.0.0.0 baiducdncmn.inter.iqiyi.com
+127.0.0.1 tencent-dtv.m.cn.miaozhen.com
+127.0.0.1 p.tencentmind.com
+127.0.0.1 ad.doubleclick.net
+127.0.0.1 vqq.admaster.com.cn
+127.0.0.1 livep.l.aiseet.atianqi.com
+127.0.0.1 grayadsense.html5.qq.com
+127.0.0.1 is.snssdk.com
+127.0.0.1 dig.bdurl.net
+127.0.0.1 sf3-ttcdn-tos.pstatp.com
+127.0.0.1 toblog.ctobsnssdk.com
+127.0.0.1 tobapplog.ctobsnssdk.com
+127.0.0.1 rmpad.imtt.qq.com
