@@ -982,19 +982,6 @@
 127.0.0.1 www.2144.cn
 127.0.0.1 iadctest.qwapi.com
 127.0.0.1 ieonline.microsoft.com
-120.52.19.113bbs.pcbeta.com 
-120.52.19.113cdn.pcbeta.attachment.inimc.com 
-120.52.19.113cdn.pcbeta.css.inimc.com 
-120.52.19.113cdn.pcbeta.static.inimc.com 
-120.52.19.113group.pcbeta.com 
-120.52.19.113i.pcbeta.com 
-120.52.19.113m.pcbeta.com 
-120.52.19.113mac.pcbeta.com 
-120.52.19.113pcbeta.com 
-120.52.19.113static.template.pcbeta.com 
-120.52.19.113uc.pcbeta.com 
-120.52.19.113web.pcbeta.com 
-120.52.19.113www.pcbeta.com 
 127.0.0.1 dl.2345.com
 127.0.0.1 download.2345.com
 127.0.0.1 g.wan.2345.com
