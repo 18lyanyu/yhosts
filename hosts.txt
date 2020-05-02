@@ -8440,7 +8440,6 @@
 127.0.0.1 c72.chinacasting.biz
 127.0.0.1 files-ad-app.gqgykh.com
 127.0.0.1 internal-amis-res.cdn.bcebos.com
-127.0.0.1 qzonestyle.gtimg.cn
 127.0.0.1 track.mxadn.top
 127.0.0.1 u.f.mxadn.top
 127.0.0.1 alog.umeng.com
